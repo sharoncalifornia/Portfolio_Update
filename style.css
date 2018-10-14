@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.center-image{
+    background: url(branches.jpg) no-repeat center;
+    background-size:cover;
+    height:500px;
+    position:relative;
+}
+
+.quote{
+font-family: 'Charmonman', cursive;
+text-align: center;
+font-size:35px;
+
+}
+
+.my_submit{
+    font-size:20px;
+    background-color: #e7e7e7; color: black;
+    text-align:center;
+    display: inline-block;
+    border:none;
+    padding:15px 32px;
+}
+
+div{
+    text-align:center;
+}
